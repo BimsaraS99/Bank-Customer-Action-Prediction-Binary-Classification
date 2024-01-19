@@ -1,1 +1,1 @@
-# Predicting-Customer-Action-in-a-Banking-Dataset-using-Binary-Classification
+# Bank Customer Action Prediction Binary Classification
